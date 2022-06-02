@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mem-game/static/css/main.49f68296.css",
+    "main.js": "/Mem-game/static/js/main.6da239b4.js",
+    "index.html": "/Mem-game/index.html",
+    "main.49f68296.css.map": "/Mem-game/static/css/main.49f68296.css.map",
+    "main.6da239b4.js.map": "/Mem-game/static/js/main.6da239b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f68296.css",
+    "static/js/main.6da239b4.js"
+  ]
+}
