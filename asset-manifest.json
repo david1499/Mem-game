@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mem-game/static/css/main.49f68296.css",
-    "main.js": "/Mem-game/static/js/main.11147b75.js",
+    "main.css": "/Mem-game/static/css/main.ae0e0251.css",
+    "main.js": "/Mem-game/static/js/main.26bf3075.js",
     "index.html": "/Mem-game/index.html",
-    "main.49f68296.css.map": "/Mem-game/static/css/main.49f68296.css.map",
-    "main.11147b75.js.map": "/Mem-game/static/js/main.11147b75.js.map"
+    "main.ae0e0251.css.map": "/Mem-game/static/css/main.ae0e0251.css.map",
+    "main.26bf3075.js.map": "/Mem-game/static/js/main.26bf3075.js.map"
   },
   "entrypoints": [
-    "static/css/main.49f68296.css",
-    "static/js/main.11147b75.js"
+    "static/css/main.ae0e0251.css",
+    "static/js/main.26bf3075.js"
   ]
 }
