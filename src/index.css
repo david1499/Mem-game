@@ -50,15 +50,16 @@ h1{
   }
 }
 
-.Card img{
+.Card div{
   max-width: 80%;
   max-height: 80%;
   transition: transform 0.5s;
   transform: scale(0);
-  animation: 5s hideImage linear;
+  animation: 5s hideItem linear;
+  
 }
 
-@keyframes hideImage{
+@keyframes hideItem{
   0%, 70%{
     transform: scale(1);
   }
@@ -78,6 +79,6 @@ h1{
   background-color: red;
 }
 
-.Card.active img{
+.Card.active div{
   transform: scale(1);
 }

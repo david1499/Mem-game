@@ -4,22 +4,22 @@ import Card from "./Card"
 function Cards(){
 
     const [items,setItems] = useState([
-        { id: 1, img: 'mem-game/public/img/A.png', stat: "" },
-        { id: 1, img: 'mem-game/public/img/A.png', stat: "" },
-        { id: 2, img: 'mem-game/public/img/B.png', stat: "" },
-        { id: 2, img: 'mem-game/public/img/B.png', stat: "" },
-        { id: 3, img: 'mem-game/public/img/C.png', stat: "" },
-        { id: 3, img: 'mem-game/public/img/C.png', stat: "" },
-        { id: 4, img: 'mem-game/public/img/D.png', stat: "" },
-        { id: 4, img: 'mem-game/public/img/D.png', stat: "" },
-        { id: 5, img: 'mem-game/public/img/E.png', stat: "" },
-        { id: 5, img: 'mem-game/public/img/E.png', stat: "" },
-        { id: 6, img: 'mem-game/public/img/F.png', stat: "" },
-        { id: 6, img: 'mem-game/public/img/F.png', stat: "" },
-        { id: 7, img: 'mem-game/public/img/g.png', stat: "" },
-        { id: 7, img: 'mem-game/public/img/g.png', stat: "" },
-        { id: 8, img: 'mem-game/public/img/h.png', stat: "" },
-        { id: 8, img: 'mem-game/public/img/h.png', stat: "" }
+        { id: 1, img: 'A', stat: "" },
+        { id: 1, img: 'A', stat: "" },
+        { id: 2, img: 'B', stat: "" },
+        { id: 2, img: 'B', stat: "" },
+        { id: 3, img: 'C', stat: "" },
+        { id: 3, img: 'C', stat: "" },
+        { id: 4, img: 'D', stat: "" },
+        { id: 4, img: 'D', stat: "" },
+        { id: 5, img: 'E', stat: "" },
+        { id: 5, img: 'E', stat: "" },
+        { id: 6, img: 'F', stat: "" },
+        { id: 6, img: 'F', stat: "" },
+        { id: 7, img: 'G', stat: "" },
+        { id: 7, img: 'G', stat: "" },
+        { id: 8, img: 'H', stat: "" },
+        { id: 8, img: 'H', stat: "" }
     ].sort(() => Math.random() - 0.5))
 
     const [prev,setPrev] = useState(-1)
